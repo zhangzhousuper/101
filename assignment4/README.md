@@ -10,7 +10,7 @@
 ---
 ·[5分]奖励分数：
 --
-实现对Bezier曲线的反走样。
+    实现对Bezier曲线的反走样。
     /images/curve2aa.png
     function description:use similar antialiasing ways used in previous homework;
 --
